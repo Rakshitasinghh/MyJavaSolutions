@@ -1,0 +1,9 @@
+
+Recursion:
+- A function that calls itself to solve a smaller part of the problem.
+- Useful for problems with repetitive, self-similar substructure.
+
+In forecasting:
+- Future value = present value * (1 + growth rate)ⁿ
+- Recursively: FV(n) = FV(n-1) * (1 + r)
+

@@ -1,0 +1,16 @@
+Time Complexity:
+
+Linear Search:
+- Best: O(1)
+- Avg/Worst: O(n)
+
+Binary Search:
+- Best: O(1)
+- Avg/Worst: O(log n) 
+
+better?
+- Binary Search is faster for large sorted datasets (O(log n)).
+- Linear Search is simpler and better for small or unsorted data.
+
+In real-world e-commerce:
+- Products are usually indexed & sorted -> Binary Search (or even better: Hashing, Trees, or Databases).
