@@ -46,10 +46,15 @@
 - `Java FSE > Deepskilling > Spring Core and Maven`  
   - `Spring Core_Maven.docx`  
  
-
 - `Java FSE > Deepskilling > Spring Data JPA with Hibernate`  
   - `3_Spring Data JPA with Spring Boot, Hibernate.docx`
- 
-
 
 ---
+
+### ✅ Week 5 Exercises
+
+**Location:**
+
+- `Java FSE > Deepskilling > Microservices`  
+  - `5_Microservices with Spring Boot 3 and Spring Cloud.docx`
+
